@@ -1,0 +1,26 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "3KP9M24HF6.com.brandonschlenker.Compliment-Jar"
+        ],
+        "components": [
+          {
+            "/": "/compliment/*",
+            "comment": "Matches compliment deep links"
+          },
+          {
+            "/": "/open/*",
+            "comment": "Matches general app open links"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "3KP9M24HF6.com.brandonschlenker.Compliment-Jar"
+    ]
+  }
+}
